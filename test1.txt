@@ -1,0 +1,10 @@
+ Volume in drive D is Working
+ Volume Serial Number is 6AFF-FB49
+
+ Directory of D:\MyProject
+
+05/02/2021  07:55 AM    <DIR>          .
+05/02/2021  07:55 AM    <DIR>          ..
+05/02/2021  07:55 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  167,655,337,984 bytes free
